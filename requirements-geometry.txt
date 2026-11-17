@@ -1,0 +1,6 @@
+# Install into the separate geometry interpreter (existing Windows bundle is preconfigured).
+numpy
+scipy
+open3d
+trimesh>=4.4,<5
+pillow

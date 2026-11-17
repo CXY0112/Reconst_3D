@@ -1,0 +1,10 @@
+# Host Python: Tkinter is supplied by Python / the operating system.
+numpy
+scipy
+opencv-python
+pillow
+truststore; sys_platform == 'win32'
+torch
+# Geometry worker uses Python 3.12 and Open3D.
+# Existing Windows bundle provides these separately; do not mix its wheels with host Python.
+# Ubuntu / Jetson needs packages built for its own Python and CPU architecture.

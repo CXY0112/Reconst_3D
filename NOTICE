@@ -1,0 +1,9 @@
+基于 RGB-D 的三维场景重建与交互建模
+Copyright 2026 Reconst_3D contributors
+
+Independently authored project code is licensed under the Apache License,
+Version 2.0. See LICENSE for the full text.
+
+Third-party components retain their original copyrights and licenses.
+See THIRD_PARTY_NOTICES.md and third_party/licenses/ for attribution,
+resource availability and applicable license boundaries.

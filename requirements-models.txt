@@ -1,0 +1,4 @@
+# Prompt segmentation and local model preview. NKSR is an optional separate runtime.
+torchvision
+timm
+trimesh
