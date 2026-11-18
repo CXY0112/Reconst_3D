@@ -1,0 +1,15 @@
+{
+  "python": "vendor/bufferx/env/Scripts/python.exe",
+  "source": "vendor/bufferx/source",
+  "weights": "vendor/bufferx/source/snapshot/threedmatch",
+  "device": "cpu",
+  "threads": 4,
+  "pose_refine": true,
+  "timeout_seconds": 600,
+  "min_inliers": 8,
+  "validation_distance_m": 0.06,
+  "min_overlap": 0.25,
+  "max_rmse_m": 0.04,
+  "max_translation_m": 1.0,
+  "max_rotation_deg": 90
+}
